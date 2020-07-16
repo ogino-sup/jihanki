@@ -1,0 +1,11 @@
+@startuml
+
+actor Promoter
+actor Entrant
+
+Promoter --> Create:Event
+Promoter -> Attend:Event
+
+Entrant --> Find:Event
+
+@enduml
