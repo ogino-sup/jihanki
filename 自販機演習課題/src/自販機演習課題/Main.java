@@ -34,7 +34,7 @@ public class Main {
         vendingMachine.selectItem(itemName);
         scanner.close();
 
-        // ‡E‰Û‹à‹@”\
+        // ‡E‰Û‹à‹@”\(‚¨‚Â‚è‚ð•Ô‚·)
         vendingMachine.charge(itemName);
     }
 }

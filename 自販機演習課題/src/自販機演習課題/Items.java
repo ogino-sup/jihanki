@@ -12,7 +12,7 @@ public class Items {
         this.items = new HashMap<String, Integer>();
         items.put("水", 100);
         items.put("コーヒー", 150);
-        items.put("サイダー",200);
+        
     }
 
     // 最低購入金額の取得
